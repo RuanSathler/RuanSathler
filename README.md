@@ -26,7 +26,7 @@
 </div>
  
 ##
- <img align="center" alt="CSS" height="300" width="400" src="https://media.tenor.com/epn5yZ5Hn2QAAAAC/anime-smile.gif">
+ <img align="center" alt="CSS" height="300" width="400" src="https://i.pinimg.com/originals/b9/7d/c2/b97dc288d71e7938c1ce8b7faacdc9ac.gif">
  
  
 
