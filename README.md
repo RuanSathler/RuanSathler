@@ -30,7 +30,6 @@
 
 ##
 
-![Snake animation](https://github.com/RuanSathler/RuanSathler/blob/output/github-contribution-grid-snake.svg)
  
  
  
