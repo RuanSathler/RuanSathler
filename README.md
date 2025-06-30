@@ -1,7 +1,7 @@
 ### olá! apenas um estudante de programação
 ##
  <div>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RuanSathler&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=RuanSathler&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&token=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" />
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanSathler&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
