@@ -3,10 +3,10 @@
 
  <div>
    <p>
-    <img width="600px" src="https://github-readme-stats.vercel.app/api?username=RuanSathler&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&token=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" />
+    <img width="450px" src="https://github-readme-stats.vercel.app/api?username=RuanSathler&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&token=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" />
    </p>
   <p>
-    <img width="600px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanSathler&layout=compact&langs_count=6&theme=tokyonight"/>
+    <img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanSathler&layout=compact&langs_count=6&theme=tokyonight"/>
    </p>
    
 
