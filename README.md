@@ -3,10 +3,10 @@
 
  <div>
    <p>
-    <img width="700px" src="https://github-readme-stats.vercel.app/api?username=RuanSathler&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&token=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" />
+    <img width="600px" src="https://github-readme-stats.vercel.app/api?username=RuanSathler&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&token=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" />
    </p>
   <p>
-    <img width="700px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanSathler&layout=compact&langs_count=6&theme=tokyonight"/>
+    <img width="600px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanSathler&layout=compact&langs_count=6&theme=tokyonight"/>
    </p>
    
 
@@ -33,4 +33,4 @@
 </div>
  
 ##
- <img align="center" alt="CSS" height="600" width="100%" src="https://i.pinimg.com/originals/b9/7d/c2/b97dc288d71e7938c1ce8b7faacdc9ac.gif">
+ <img align="center" alt="CSS" height="600" width="900px" src="https://i.pinimg.com/originals/b9/7d/c2/b97dc288d71e7938c1ce8b7faacdc9ac.gif">
