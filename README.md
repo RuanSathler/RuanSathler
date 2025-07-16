@@ -35,7 +35,7 @@
 ##
  <img align="center" alt="CSS" height="600" width="900px" src="https://i.pinimg.com/originals/b9/7d/c2/b97dc288d71e7938c1ce8b7faacdc9ac.gif">
 
- ## 🟡 Pacman Contribution Graph
+ ## 🟡 Pacman 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RuanSathler/RuanSathler/output/pacman-contribution-graph-dark.svg">
